@@ -1,0 +1,70 @@
+.signInWrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: linear-gradient(to right, #dfd1c0, #d1c8a2); /* Fun gradient background */
+}
+
+.signInContainer {
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.1);
+    width: 400px;
+}
+
+.signInTitle {
+    font-size: 28px;
+    margin-bottom: 20px;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+}
+
+.inputContainer {
+    margin-bottom: 15px;
+}
+
+.inputContainer label {
+    display: block;
+    margin-bottom: 5px;
+    font-size: 14px;
+    color: #333;
+    font-family: 'Poppins', sans-serif;
+}
+
+.inputContainer input {
+    width: 100%;
+    padding: 10px;
+    font-size: 14px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    transition: border-color 0.3s;
+}
+
+.inputContainer input:focus {
+    border-color: #f7971e;
+}
+
+.signInButton {
+    width: 100%;
+    padding: 12px;
+    background-color: #f7971e;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.signInButton:hover {
+    background-color: #ffb347;
+}
+
+.error {
+    color: red;
+    font-size: 14px;
+    margin-bottom: 15px;
+    text-align: center;
+}

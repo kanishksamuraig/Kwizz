@@ -1,0 +1,296 @@
+[
+    {
+        "topic": "Data structure and Algorithms",
+        "Question": "Which of the following sorting algorithms can be used to sort a random linked list with minimum time complexity?",
+        "i": "Insertion Sort",
+        "ii": "Quick Sort",
+        "iii": "Heap Sort",
+        "iv": "Merge Sort",
+        "correct": "iv"
+    },
+    {
+        "topic": "Data structure and Algorithms",
+        "Question": "What is the worst case time complexity of inserting n elements into an empty linked list, if the linked list needs to be maintained in sorted order?",
+        "i": "Θ(n)",
+        "ii": "Θ(n log n)",
+        "iii": "Θ(n2)",
+        "iv": "Θ(1)"
+    },
+    {
+        "topic": "Data structure and Algorithms",
+        "Question": "What is the number of layers in the OSI model?",
+        "i": "2",
+        "ii": "4",
+        "iii": "7",
+        "iv": "9"
+    },
+    {
+        "topic": "Data structure and Algorithms",
+        "Question": "How many assignable addresses does this combination of IP address and subnet mask have: 172.16.1.0 and 255.255.255.252?",
+        "i": "0",
+        "ii": "1",
+        "iii": "30",
+        "iv": "2"
+    },
+    {
+        "topic": "Operating System",
+        "Question": "What is an operating system?",
+        "i": "interface between the hardware and application programs",
+        "ii": "collection of programs that manages hardware resources",
+        "iii": "system service provider to the application programs",
+        "iv": "all of the mentioned",
+        "correct": "iv"
+    },
+    {
+        "topic": "Operating System",
+        "Question": "What is an operating system?",
+        "i": "interface between the hardware and application programs",
+        "ii": "collection of programs that manages hardware resources",
+        "iii": "system service provider to the application programs",
+        "iv": "all of the mentioned",
+        "correct": "iv"
+    },
+    {
+        "topic": "Data Structures and Algorithms",
+        "Question": "Which data structure is used for implementing recursive algorithms?",
+        "i": "Stack",
+        "ii": "Queue",
+        "iii": "Linked List",
+        "iv": "Tree",
+        "correct": "i"
+    },
+    {
+        "topic": "Database Management Systems",
+        "Question": "What is the purpose of a foreign key in a relational database?",
+        "i": "To uniquely identify each record in a table",
+        "ii": "To establish a relationship between two tables",
+        "iii": "To enforce referential integrity",
+        "iv": "Both ii and iii",
+        "correct": "iv"
+    },
+    {
+        "topic": "Operating Systems",
+        "Question": "In process scheduling, which algorithm selects the process with the shortest expected processing time?",
+        "i": "First-Come, First-Served (FCFS)",
+        "ii": "Shortest Job First (SJF)",
+        "iii": "Round Robin (RR)",
+        "iv": "Priority Scheduling",
+        "correct": "ii"
+    },
+    {
+        "topic": "Networking",
+        "Question": "Which protocol is used to resolve the IP address from a given MAC address in a local network?",
+        "i": "DNS",
+        "ii": "ARP",
+        "iii": "TCP",
+        "iv": "UDP",
+        "correct": "ii"
+    },
+    {
+        "topic": "Computer Architecture",
+        "Question": "In computer architecture, what is the primary function of the Control Unit (CU)?",
+        "i": "Execute arithmetic and logic operations",
+        "ii": "Store data and instructions",
+        "iii": "Direct the operation of the processor",
+        "iv": "Provide power to the system",
+        "correct": "iii"
+    },
+    {
+        "topic": "Artificial Intelligence",
+        "Question": "Which algorithm is commonly used for training supervised learning models?",
+        "i": "Backpropagation",
+        "ii": "Breadth-First Search",
+        "iii": "Depth-First Search",
+        "iv": "Minimax",
+        "correct": "i"
+    },
+    {
+        "topic": "Software Engineering",
+        "Question": "Which software development model is also known as the ‘linear-sequential life cycle model’?",
+        "i": "Agile",
+        "ii": "Waterfall",
+        "iii": "Spiral",
+        "iv": "V-Model",
+        "correct": "ii"
+    },
+    {
+        "topic": "Cryptography",
+        "Question": "Which encryption algorithm is considered symmetric encryption?",
+        "i": "RSA",
+        "ii": "AES",
+        "iii": "DSA",
+        "iv": "ElGamal",
+        "correct": "ii"
+    },
+    {
+        "topic": "Data Structures and Algorithms",
+        "Question": "What is the time complexity of searching an element in a balanced binary search tree (BST)?",
+        "i": "O(n)",
+        "ii": "O(log n)",
+        "iii": "O(n log n)",
+        "iv": "O(1)",
+        "correct": "ii"
+    },
+    {
+        "topic": "Networking",
+        "Question": "What is the maximum length of an IPv4 address?",
+        "i": "32 bits",
+        "ii": "64 bits",
+        "iii": "128 bits",
+        "iv": "16 bits",
+        "correct": "i"
+    },
+    {
+        "topic": "Database Management Systems",
+        "Question": "Which normal form is considered optimal for most database designs?",
+        "i": "1NF",
+        "ii": "2NF",
+        "iii": "3NF",
+        "iv": "BCNF",
+        "correct": "iii"
+    },
+    {
+        "topic": "Operating Systems",
+        "Question": "What is a ‘deadlock’ in operating systems?",
+        "i": "A situation where two processes wait for each other indefinitely",
+        "ii": "A process that terminates unexpectedly",
+        "iii": "A process running in an infinite loop",
+        "iv": "A communication failure between hardware devices",
+        "correct": "i"
+    },
+    {
+        "topic": "Computer Architecture",
+        "Question": "Which memory technology is non-volatile and stores data even when the power is turned off?",
+        "i": "RAM",
+        "ii": "Cache",
+        "iii": "ROM",
+        "iv": "SRAM",
+        "correct": "iii"
+    },
+    {
+        "topic": "Data Structures and Algorithms",
+        "Question": "Which of the following algorithms is used for solving the shortest path problem in graphs?",
+        "i": "Dijkstra's Algorithm",
+        "ii": "Floyd-Warshall Algorithm",
+        "iii": "Bellman-Ford Algorithm",
+        "iv": "All of the mentioned",
+        "correct": "iv"
+    },
+    {
+        "topic": "Artificial Intelligence",
+        "Question": "Which of the following is an unsupervised learning algorithm?",
+        "i": "Linear Regression",
+        "ii": "K-means Clustering",
+        "iii": "Decision Tree",
+        "iv": "Support Vector Machine (SVM)",
+        "correct": "ii"
+    },
+    {
+        "topic": "Artificial Intelligence",
+        "Question": "Which search algorithm in AI is used to find the shortest path in a weighted graph?",
+        "i": "Depth-First Search",
+        "ii": "Breadth-First Search",
+        "iii": "A* Search",
+        "iv": "Greedy Search",
+        "correct": "iii"
+    },
+    {
+        "topic": "Object-Oriented Programming",
+        "Question": "Which of the following is not a principle of Object-Oriented Programming?",
+        "i": "Encapsulation",
+        "ii": "Inheritance",
+        "iii": "Abstraction",
+        "iv": "Recursion",
+        "correct": "iv"
+    },
+    {
+        "topic": "Object-Oriented Programming",
+        "Question": "Which of the following concepts is achieved by function overloading or method overloading?",
+        "i": "Encapsulation",
+        "ii": "Polymorphism",
+        "iii": "Abstraction",
+        "iv": "Inheritance",
+        "correct": "ii"
+    },
+    {
+        "topic": "Object-Oriented Programming",
+        "Question": "What is a constructor in OOP?",
+        "i": "A special function used to initialize objects",
+        "ii": "A method that returns the object of the class",
+        "iii": "A function that is used to destroy objects",
+        "iv": "A method used for creating multiple objects",
+        "correct": "i"
+    },
+    {
+        "topic": "Object-Oriented Programming",
+        "Question": "Which feature of OOP is used to bind the data and the functions that manipulate the data together?",
+        "i": "Abstraction",
+        "ii": "Encapsulation",
+        "iii": "Inheritance",
+        "iv": "Polymorphism",
+        "correct": "ii"
+    },
+    {
+        "topic": "Artificial Intelligence",
+        "Question": "Which of the following is a reinforcement learning algorithm?",
+        "i": "Q-Learning",
+        "ii": "Linear Regression",
+        "iii": "SVM",
+        "iv": "K-Nearest Neighbors",
+        "correct": "i"
+    },
+    {
+        "topic": "Database Management Systems",
+        "Question": "Which type of SQL query is used to modify existing data?",
+        "i": "SELECT",
+        "ii": "INSERT",
+        "iii": "UPDATE",
+        "iv": "DELETE",
+        "correct": "iii"
+    },
+    {
+        "topic": "Networking",
+        "Question": "Which layer of the OSI model is responsible for end-to-end communication and error handling?",
+        "i": "Transport Layer",
+        "ii": "Network Layer",
+        "iii": "Data Link Layer",
+        "iv": "Session Layer",
+        "correct": "i"
+    },
+    {
+        "topic": "Operating Systems",
+        "Question": "Which type of scheduling algorithm is used in real-time operating systems?",
+        "i": "Round Robin",
+        "ii": "Priority Scheduling",
+        "iii": "Multilevel Queue Scheduling",
+        "iv": "Earliest Deadline First (EDF)",
+        "correct": "iv"
+    },
+    {
+        "topic": "Object-Oriented Programming",
+        "Question": "Which of the following is true about inheritance in OOP?",
+        "i": "Inheritance allows a class to use methods and properties of another class",
+        "ii": "Inheritance is not supported in C++",
+        "iii": "Inheritance is used to override private members",
+        "iv": "Inheritance prevents code reusability",
+        "correct": "i"
+    },
+    {
+        "topic": "Data Structures and Algorithms",
+        "Question": "Which of the following is a greedy algorithm?",
+        "i": "Prim's Algorithm",
+        "ii": "Kruskal's Algorithm",
+        "iii": "Huffman Encoding",
+        "iv": "All of the mentioned",
+        "correct": "iv"
+    },
+    {
+        "topic": "Software Engineering",
+        "Question": "In which SDLC phase is the feasibility of the project analyzed?",
+        "i": "Requirement Analysis",
+        "ii": "Design",
+        "iii": "Feasibility Study",
+        "iv": "Implementation",
+        "correct": "iii"
+    }
+]

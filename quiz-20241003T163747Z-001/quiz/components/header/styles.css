@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Franklin:ital,wght@0,100..900;1,100..900&display=swap');
+
+.HeaderWrapper {
+    display: flex;
+    justify-content: space-between;
+    margin: 2em;
+    font-family: "Libre Franklin", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    color: rgb(34, 34, 34);
+}
+h1 {
+    margin: 0;
+
+    
+}
+.Sign {
+    margin: 1em;
+    border: none;
+    background-color: transparent;
+    font-family: "Libre Franklin", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    color: rgb(34, 34, 34);
+}

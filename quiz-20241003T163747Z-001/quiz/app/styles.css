@@ -1,0 +1,18 @@
+
+.faded-background {
+    /* Set the background image */
+    background-image: 
+        /* Layer a linear gradient on top of the image */
+        
+        url('../components/landing/pic2.webp'); /* Your image URL */
+
+    /* Background properties */
+    background-size: cover;  /* Make sure the image covers the container */
+    background-position: center; /* Position it to center */
+    background-repeat: repeat-y; /* Avoid repeating the image */
+
+    /* Set height and width as required */
+    height: 100vh;  /* Example height, adjust as per your needs */
+    width: 100%;    /* Full width */
+
+}

@@ -1,0 +1,24 @@
+.layout {
+    display: flex; /* Use flexbox for layout */
+    flex-direction: column; /* Stack header and content vertically */
+    min-height: 100vh; /* Full viewport height */
+    background: linear-gradient(135deg, #ff7e5f, #feb47b); /* Fun gradient background */
+}
+
+.header {
+    width: 100%; /* Header takes full width */
+    background-color: rgba(74, 144, 226, 0.8); /* Semi-transparent header background */
+    padding: 20px; /* Padding around the header */
+    color: white; /* Text color for header */
+    text-align: center; /* Center align text */
+}
+
+.mainContent {
+    flex: 1; /* Allow main content to grow and fill remaining space */
+    padding: 20px; /* Padding around main content */
+    display: flex; /* Flexbox for centering */
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+    color: #333; /* Default text color for main content */
+    background: inherit; /* Inherit background from parent */
+}

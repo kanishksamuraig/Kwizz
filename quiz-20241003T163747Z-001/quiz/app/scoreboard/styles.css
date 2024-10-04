@@ -1,0 +1,104 @@
+/* styles.css for scoreboard */
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background: linear-gradient(135deg, #f1c40f, #e67e22);
+    color: #2c3e50;
+    margin: 0;
+}
+
+.scoreboard {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.scoreboard h1 {
+    font-size: 48px;
+    color: #fff;
+}
+
+.score {
+    font-size: 72px;
+    color: #27ae60;
+    font-weight: bold;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 18px;
+    background-color: #2980b9;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    margin-top: 20px;
+    transition: background-color 0.3s;
+}
+
+button:hover {
+    background-color: #3498db;
+}
+.scoreboard {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background: linear-gradient(135deg, #FFD700 0%, #686868 100%);
+
+  color: white;
+  font-family: 'Poppins', sans-serif;
+  text-align: center;
+}
+
+.scoreboard h1 {
+  font-size: 3rem;
+  margin-bottom: 1.5rem;
+}
+
+.score {
+  font-size: 4rem;
+  font-weight: bold;
+  margin-bottom: 2rem;
+  background-color: rgba(255, 255, 255, 0.2);
+  padding: 1rem 2rem;
+  border-radius: 10px;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.15);
+}
+
+button {
+  padding: 0.75rem 2rem;
+  font-size: 1.2rem;
+  background-color: #fff;
+  color: #f5576c;
+  border: none;
+  border-radius: 50px;
+  cursor: pointer;
+  box-shadow: 0 8px 15px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease;
+}
+
+button:hover {
+  background-color: #f5576c;
+  color: white;
+  transform: translateY(-3px);
+}
+
+@media (max-width: 768px) {
+  .scoreboard h1 {
+    font-size: 2.5rem;
+  }
+
+  .score {
+    font-size: 3rem;
+  }
+
+  button {
+    font-size: 1rem;
+    padding: 0.5rem 1.5rem;
+  }
+}
+
